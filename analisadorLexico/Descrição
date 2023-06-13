@@ -1,0 +1,15 @@
+Versão Final do Trabalho sobre o Analisador Lexico
+
+Integrantes do grupo:
+* Edmilson Tovela
+* Henriques Mapanga
+* Paulo Xatane Matavele
+
+Bugs Fixed:
+* tempo de execução 
+* Painel de analise em tempo real apos o clique de execução
+* identificação de Strings
+
+Missing:
+* dragable UI
+* responsividade dos butoes (cores) when mouseEntered
